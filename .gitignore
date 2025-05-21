@@ -32,9 +32,8 @@
 *.app
 
 # Ignore all binary files without extension
-**/*
-!**/*.*
+**/main*
+!**/main*.*
 
 # Editor configs
 .vscode/
-.idea/

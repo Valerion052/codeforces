@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Ignore all binary files without extension
+**/*
+!**/*.*
+
+# Editor configs
+.vscode/
+.idea/
